@@ -1,6 +1,11 @@
 # Titanic-Survival-Exploration-With-Decision-Trees-
 # Lab: Titanic Survival Exploration With Decision Trees
 
+### Getting Started
+
+In this lab, you will see how decision trees work by implementing a decision tree in sklearn.
+
+We'll start by loading the dataset and displaying some of its rows.
 ### Installation
 This project requires **Python 3.7** and the following Python libraries installed:
 
