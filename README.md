@@ -54,7 +54,7 @@ Or
 jupyter notebook titanic_survival_exploration.ipynb
 
 ```
-### Target Varible
+### Target Variable
 
 `survival` : Survival (0 = No; 1 = Yes)
 
