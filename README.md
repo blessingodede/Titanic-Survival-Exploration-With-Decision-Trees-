@@ -40,7 +40,7 @@ The dataset used in this project is included as titanic_data.csv.
 
 ### Code
 
-Template code is provided in the titanic_survival_exploration.ipynb notebook file and and the titanic.csv dataset file to complete your work.
+Template code is provided in the titanic_survival_exploration.ipynb notebook file and the titanic.csv dataset file to complete your work.
 
 ### Run
 
